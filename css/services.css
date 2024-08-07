@@ -19,19 +19,19 @@
 }
 
 .service-img-1 {
-  background-image: url(/images/service2.png);
+  background-image: url("../images/service2.png");
 }
 
 .service-img-2 {
-  background-image: url(/images/service3.png);
+  background-image: url("../images/service3.png");
 }
 
 .service-img-3 {
-  background-image: url(/images/service4.png);
+  background-image: url("../images/service4.png");
 }
 
 .service-img-4 {
-  background-image: url(/images/service5.png);
+  background-image: url("../images/service5.png");
 }
 
 .services a:hover .service-img {
