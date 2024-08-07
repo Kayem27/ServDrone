@@ -11,7 +11,7 @@
   margin-top: 20px;
   position: relative;
   height: 300px;
-  background: center / cover no-repeat url(/images/service1.png);
+  background: center / cover no-repeat url("../images/service1.png");
 
   border-radius: 13px;
 
